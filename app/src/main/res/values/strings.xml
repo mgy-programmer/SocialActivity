@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SocialActivityProject</string>
+
+    <string-array name="preferences">
+        <item>Halısaha Maçı</item>
+        <item>Sinema</item>
+        <item>Gezi</item>
+        <item>Piknik</item>
+        <item>Sohbet</item>
+        <item>Tanışma</item>
+        <item>Spor</item>
+        <item>Paintball</item>
+        <item>Bowling</item>
+        <item>Yürüyüş</item>
+    </string-array>
+</resources>
